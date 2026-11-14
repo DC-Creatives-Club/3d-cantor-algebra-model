@@ -8,7 +8,6 @@ The Cantor set is the (uncountable) Stone space dual to the (countable) [Cantor 
 - wrote math paper, Lean code constructing the Cantor algebra explicitly
 - designed 3D model in Rhino of Cantor set
 - printed 3D models of Cantor set
-- on display at MICA until 5/17/2026
 
 ## future directions
 
